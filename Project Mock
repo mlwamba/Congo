@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>African Culture</title>
+    <style>
+      body {
+        background-image: linear-gradient(
+          135deg,
+          rgb(82, 229, 231) 10%,
+          rgb(19, 12, 183) 100%
+        );
+
+        border: 2px solid white;
+        border-radius: 20px 20px 20px 20px;
+        padding: 5px 20px 4px 10px;
+        margin: 30px 300px 30px 300px;
+      
+      }
+
+      h1 {
+        font-size: 50px;
+        text-align: center;
+        color: rgb(255, 255, 255);
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+      }
+      h2 {
+        text-align: center;
+        color: aliceblue;
+      }
+      p {
+        font-size: 13px;
+      }
+      button {
+        color: red;
+        background: white;
+        border-radius: 20px 20px 20px 20px;
+        margin: 20px auto;
+        padding: 10px;
+        display: block;
+      }
+      button:hover {
+        align-items: center;
+        color: yellow;
+        cursor: pointer;
+        background-color: black;
+      }
+      h3{
+        font-size: 50px;
+        text-align: center;
+        color: aliceblue;
+      }
+      .Hair {
+        font-size: 12px;
+      }
+      .Beauty {
+        color: rgb(118, 15, 15);
+      }
+      h4{
+        color: aliceblue;
+        font-weight: 100;
+        text-align: center;
+      }
+      h5{
+        font-size: 20;
+        color: aliceblue;
+        text-align: center;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>My African Culture</h1>
+    <h2>
+        <hr>
+        
+      Being from Central Africa
+      <br />
+      <em> Democratic of the Congo</em>
+
+      <br />
+      <img
+        src="https://s3.amazonaws.com/shecodesio-production/uploads/files/000/059/716/original/Flag_of_the_Democratic_Republic_of_the_Congo.svg.png?1671499165"
+        alt=""
+        width="300"
+      />
+      <br />
+      <p>
+        The Democratic of the Congo gained it's independence on June 30th, 1960.
+        It is the second largest country in Africa and the 11th-largest in the
+        world. I'm proud to say my country is the most populous officially
+        Francophone country in the world. May I mention, we are famously known
+        for our music, unique fashion, and being the best dancers known by,
+        "waist-line warriors." The national capital and largest city is
+        Kinshasa, is where I was born. You're probably wondering why there's two flags for Congo, well my side was colonized by Belgium. The other side of Congo (Repbulic of the Congo or Congo-Brazzaville) was colonized by France. 
+        <br>
+        <a href="https://www.britannica.com/place/Democratic-Republic-of-the-Congo/Plant-and-animal-life" target="_blank">
+Learn more about the Congo
+      </a>
+    
+        <hr>
+        <h3>
+            
+            Fashion &
+            <span class="Beauty">Beauty </span> 
+            <br>
+            <img src="https://s3.amazonaws.com/shecodesio-production/uploads/files/000/059/722/original/Screen_Shot_2022-12-19_at_9.21.40_PM.png?1671503434" width="300"/>
+            <br>
+        <img src="https://s3.amazonaws.com/shecodesio-production/uploads/files/000/059/728/original/Decider.jpeg?1671505556" width="300" />
+        <br>
+        <img src="https://s3.amazonaws.com/shecodesio-production/uploads/files/000/059/726/original/Tiwa-Savage-Just-Revived-Your-Favourite-Childhood-Hairstyle-3.jpeg?1671505228" width="300" />
+        <br>
+       <div class="Hair">The braided crown that you see Beyonce wearing (middle picture), is native to Mangbetu people of Congo. It is thin braids woven into a crown and is used to appreciate the culture of skull elongation among the tribe.
+        The other hairstyle is just a traditional style used heavily in Congo. Whenever you see the hairstyle, you know its from the Congo. </div>
+  
+   <br>
+   <img src="https://s3.amazonaws.com/shecodesio-production/uploads/files/000/059/729/original/gettyimages-1397942504-2048x2048.jpeg?1671506980" width="300" alt="">
+   <br>
+   <img src="https://s3.amazonaws.com/shecodesio-production/uploads/files/000/059/730/original/dac8116e1e1775dc93ddc13cd7680b5e.jpeg?1671507285" width="300" alt="">
+  <br>  
+  <div class="Hair">The top picture is Congolese supermodel "Didi Stone", and she's showing Congolese attire modernized by a designer. The second picture is our cloth (Kuba) turned into marriage attire.</div>
+  <hr>
+Music
+<br>
+<img src="https://s3.amazonaws.com/shecodesio-production/uploads/files/000/059/732/original/Untitled_design.png?1671508376" width="300"alt="">
+<div class="Hair"> I wish a lot of people understood french, so everyone would get the gist of how good people from Congo make good music. You could even tell from the musical instruments the music is good. From the top left across to the bottom row right I'll name the artists for you. These are a few that I have rotating in my playlist a few times. "SevMokonzi, Tay C ( He's not Congolese but a lot of his music is Congolese inspired), Gino J. The bottom row Koffi Olomide, and Fally Ipupa. The bottom row is from the older generation, two of Congo's famous artist. You can't come around my people without hearing them at least once in car ride, house party, and festival. If you love upbeat, fast, and energetic music, you would enjoy " </div>
+</h3>
+<hr>
+<h4>
+    <em>
+    It's unfortunate to say, right now my country is going through a lot with war and enviornmental problems. December 14th there has been a huge number of deaths due to experience of the worst floods to hit the country since years ago. Along with civilians being killed by the M23 rebel group formed by the neighboring countries Rwwanda and Uganda. There has been several murders, rapes, kidnappings, and looting against villages. This is nothing new in Africa with things like this happening. It's sad to say that the end is no where near. 
+</em>
+<h5>
+    Save The Congo
+</h5>
+<button>Help Donate</button>
+</h4>
+</p>
+
+      </p>
+    </h2>
+    <script>
+    
+            let question =prompt("Have you visited Democratic of the Congo before?")
+
+        function helpCongo() {
+           let name= prompt("What is your name?");
+
+           let h5 =document.querySelector("h5");
+           h5.innerHTML= " Thank you " + name + ", this donation saved a life!";
+           
+           alert ("Thank you "  + name +  " , for helping, it means a lot!");
+            
+            
+        }
+        let helpButton = document.querySelector("button");
+        helpButton.addEventListener("click", helpCongo);
+
+    </script>
+  </body>
+</html>
